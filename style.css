@@ -23,7 +23,7 @@ body {
   display: flex;
   flex-direction: row;
   list-style-type: none;
-  padding-top: 1%;
+  padding-top: 5%;
 }
 
 .navbar ul li {
